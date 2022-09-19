@@ -1,2 +1,0 @@
-# Front-endMentor
- Challenges
