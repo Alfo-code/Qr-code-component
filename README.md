@@ -9,5 +9,5 @@ This is a solution to the [QR code component challenge](https://www.frontendment
 
 ### Live URL
 
-Check this project [online](https://alfo-code.github.io/Front-endMentor/)
+Check this project [online](https://alfo-code.github.io/Qr-code-component/)
 
